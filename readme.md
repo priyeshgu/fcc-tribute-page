@@ -1,1 +1,1 @@
-This is a readme file
+This project was created for my FreeCodeCamp Responsive Web Design Certification.
