@@ -29,6 +29,13 @@ background-color: #ffffff;
     margin-top: -10px;
 }
 
+#tribute-info-div{
+    padding-right: 100px;
+    padding-left: 100px;
+    height: auto;
+  
+}
+
 #fcc-logo{
     width: 30px;
     height: 30px;
